@@ -2,7 +2,7 @@
 
 ## Links:
 
-- Youtube in russian: https://www.youtube.com/channel/UCSNpJHMOU7FqjD4Ttux0uuw
+- Youtube in russian: https://www.youtube.com/c/PythononPapyrusRU
 - Youtube in english: https://www.youtube.com/channel/UCeC9LNDwRP9OfjyOFHaSikA
 - Udemy: https://www.udemy.com/user/andrey-ivanov-49/
 - Telegram: https://t.me/iv_andrew
